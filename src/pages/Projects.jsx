@@ -13,7 +13,7 @@ const projects = [
       "A simple and interactive temperature converter with clean UI and proper state handling.",
     tech: ["JavaScript", "CSS"],
     live: "https://lazik-latief.github.io/temp-switch-react/",
-    github: "https://github.com/Lazik-Latief/temp-switch-reacts",
+    github: "https://github.com/Lazik-Latief/temp-switch-react",
   },
   {
     title: "Secure Keysmith",
