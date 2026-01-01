@@ -1,11 +1,11 @@
 const projects = [
   {
-    title: "React Portfolio Website",
+    title: "React Currency Converter",
     description:
-      "A personal portfolio built using React Router showcasing my projects, skills, and contact information.",
-    tech: ["React","React-Router", "Tailwind"],
-    live: "https://lazik-latief.github.io/react-portfolio/",
-    github: "https://github.com/Lazik-Latief/react-portfolio",
+      "A simple and interactive Currency Converter built with React.js. It features real-time exchange rates and a clean user interface.",
+    tech: ["React","useEffect","custom-hook"],
+    live: "https://lazik-latief.github.io/react-currency-converter/",
+    github: "https://github.com/Lazik-Latief/react-currency-converter",
   },
   {
     title: "Temperature Converter",
