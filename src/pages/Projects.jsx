@@ -3,9 +3,9 @@ const projects = [
     title: "React Portfolio Website",
     description:
       "A personal portfolio built using React Router showcasing my projects, skills, and contact information.",
-    tech: ["React", "Tailwind"],
-    live: "https://yourname.github.io/portfolio",
-    github: "https://github.com/yourname/portfolio",
+    tech: ["React","React-Router", "Tailwind"],
+    live: "https://lazik-latief.github.io/react-portfolio/",
+    github: "https://github.com/Lazik-Latief/react-portfolio",
   },
   {
     title: "Temperature Converter",
