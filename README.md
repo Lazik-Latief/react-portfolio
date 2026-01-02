@@ -24,6 +24,10 @@ This structure makes the project easier to understand and maintain.
 - Learned how to reuse layouts using Outlet
 - Improved confidence in component-based thinking
 
+  ## screenshot>>
+  <img width="913" height="433" alt="image" src="https://github.com/user-attachments/assets/45770c79-ca3c-45e1-b81e-bd0e34a10814" />
+
+
 ## Note
 This portfolio is part of my frontend learning journey.
 I will keep improving it as I learn more React concepts.
