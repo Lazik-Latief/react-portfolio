@@ -4,10 +4,11 @@ import './index.css'
 import App from './App.jsx'
 import { createBrowserRouter, createRoutesFromElements, Route, RouterProvider } from 'react-router-dom'
 import MainLayout from './layout/MainLayout.jsx'
-import Home from './pages/Home.jsx'
-import About from './pages/About.jsx'
-import Projects from './pages/Projects.jsx'
-import Contact from './pages/Contact.jsx'
+// import Home from './pages/Home.jsx'
+// import About from './pages/About.jsx'
+// import Projects from './pages/Projects.jsx'
+// import Contact from './pages/Contact.jsx'
+import {Home, About, Projects, Contact} from './pages/index.js'
 
 const router = createBrowserRouter(
   createRoutesFromElements(

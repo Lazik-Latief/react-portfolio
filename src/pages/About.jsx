@@ -5,7 +5,7 @@ const About = () => {
       {/* subtle background glow */}
       <div className="absolute -top-32 -right-32 w-96 h-96 bg-orange-200 rounded-full blur-3xl opacity-30"></div>
 
-      <div className="relative max-w-screen-xl mx-auto px-6 space-y-14">
+      <div className="relative max-w-7xl mx-auto px-6 space-y-14">
 
         {/* Heading */}
         <div className="text-center space-y-4">

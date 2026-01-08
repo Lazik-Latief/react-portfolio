@@ -3,13 +3,13 @@ import profile from "../assets/profile.JPG";
 
 const Home = () => {
   return (
-    <section className="relative min-h-[90vh] bg-gradient-to-br from-orange-50 via-pink-50 to-purple-50 flex items-center overflow-hidden">
+    <section className="relative min-h-[90vh] bg-linear-to-br from-orange-50 via-pink-50 to-purple-50 flex items-center overflow-hidden">
       
       {/* Background blobs */}
       <div className="absolute -top-24 -left-24 w-96 h-96 bg-orange-300 rounded-full blur-3xl opacity-30"></div>
       <div className="absolute top-1/3 -right-24 w-96 h-96 bg-pink-300 rounded-full blur-3xl opacity-30"></div>
 
-      <div className="relative max-w-screen-xl mx-auto px-6 grid md:grid-cols-2 gap-14 items-center">
+      <div className="relative max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-14 items-center">
 
         {/* LEFT CONTENT */}
         <div className="space-y-7">
@@ -49,7 +49,7 @@ const Home = () => {
         <div className="flex justify-center">
           <div className="relative">
             {/* Glow */}
-            <div className="absolute inset-0 rounded-3xl bg-gradient-to-br from-orange-400 to-pink-400 blur-2xl opacity-40 scale-105"></div>
+            <div className="absolute inset-0 rounded-3xl bg-linear-to-br from-orange-400 to-pink-400 blur-2xl opacity-40 scale-105"></div>
 
             {/* Image card */}
             <div className="relative bg-white p-2 rounded-3xl shadow-2xl">
